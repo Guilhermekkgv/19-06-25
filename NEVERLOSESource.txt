@@ -417,7 +417,7 @@ function NEVERLOSE:AddWindow(NameScriptHub,Text,UICustomSize)
 	TabButtons.Name = "TabButtons"
 	TabButtons.Parent = Frame
 	TabButtons.Active = true
-	TabButtons.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TabButtons.BackgroundColor3 = Color3.fromRGB(13, 13, 13)
 	TabButtons.BackgroundTransparency = 1.000
 	TabButtons.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	TabButtons.BorderSizePixel = 0
